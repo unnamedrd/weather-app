@@ -18,7 +18,7 @@ export default {
     },
     methods: {
         async getForecast(){
-            const response = await fetch(http://api.openweathermap.org/data/2.5/forecast?id=524901&appid={API key});
+            const response = await fetch(http:api.openweathermap.org/data/2.5/forecast?id=524901&appid={API key});
             const data = await.response.json();
             this.data = data;
         }

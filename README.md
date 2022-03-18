@@ -33,7 +33,6 @@ The live site/demo is here: https:// [insert link to live site]
 
 [Insert Design files if you have them; Figma, Sketch, PDF Design System]
 
-![2](https://user-images.githubusercontent.com/93551062/146629432-31e6f080-269e-458b-8628-fdaf00ef7b1d.jpg)
 
 
 
